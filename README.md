@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, ROS, Algorithm complexity**
 
-- 👯 I’m looking to collaborate on **Contributing to large open-source projects and following developing new technical skills :D**
+- 👯 I’m looking to collaborate on **Contributing to large open-source projects and developing new technical skills :D**
 
 - 🤝 I’m looking for help with **Express/REST API Development**
 
